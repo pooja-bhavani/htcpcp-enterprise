@@ -11,6 +11,8 @@
 
 **[→ Live Demo](https://pooja-bhavani.github.io/htcpcp-enterprise/)**
 
+<img width="1450" height="835" alt="image" src="https://github.com/user-attachments/assets/5ae93274-c601-4aa6-bad0-59dfaa6a3850" />
+
 ---
 
 ## What is this?
