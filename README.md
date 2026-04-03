@@ -9,7 +9,7 @@
 [![Uptime](https://img.shields.io/badge/Uptime-99.97%25-green?style=flat-square)]()
 [![Larry Approved](https://img.shields.io/badge/Larry%20Masinter-Approved-C4934A?style=flat-square)]()
 
-**[→ Live Demo]([https://your-deployed-link-here](https://pooja-bhavani.github.io/htcpcp-enterprise/))**
+**[→ Live Demo](https://pooja-bhavani.github.io/htcpcp-enterprise/))**
 
 ---
 
